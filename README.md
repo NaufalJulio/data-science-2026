@@ -19,15 +19,15 @@ Repository ini berisi kumpulan notebook praktikum dari Pertemuan 1 hingga Pertem
 
 ## Daftar Pertemuan
 
-| Pertemuan | Topik                                                   | Notebook                                 |
-| --------- | ------------------------------------------------------- | ---------------------------------------- |
-| 1         | Pengenalan Data Science                                 | [Pertemuan 1]([https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan1_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb]()) |
-| 2         | Struktur Data Python, NumPy & Pandas                    | [Pertemuan 2]([https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan2_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb]) |
-| 3         | Data Cleaning: Missing Values, Outlier & Ekstraksi Data | [Pertemuan 3]([link-notebook-pertemuan-3](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan3_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
-| 4         | Statistika Dasar & Analisis Data                        | [Pertemuan 4]([link-notebook-pertemuan-4](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan4_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
-| 5         | Visualisasi Data                                        | [Pertemuan 5]([link-notebook-pertemuan-5](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan5_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
-| 6         | Persiapan Data                                          | [Pertemuan 6]([link-notebook-pertemuan-6](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan6_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
-| 7         | Pengantar Machine Learning: Regresi Linear              | [Pertemuan 7]([link-notebook-pertemuan-7](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan7_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
+| Pertemuan | Topik | Notebook |
+|-----------|--------|-----------|
+| 1 | Pengenalan Data Science | [Buka Notebook](https://github.com/username/repository/blob/main/Pertemuan-1.ipynb) |
+| 2 | Struktur Data Python, NumPy & Pandas | [Buka Notebook](https://github.com/username/repository/blob/main/Pertemuan-2.ipynb) |
+| 3 | Data Cleaning: Missing Values, Outlier & Ekstraksi Data | [Buka Notebook](https://github.com/username/repository/blob/main/Pertemuan-3.ipynb) |
+| 4 | Statistika Dasar & Analisis Data | [Buka Notebook](https://github.com/username/repository/blob/main/Pertemuan-4.ipynb) |
+| 5 | Visualisasi Data | [Buka Notebook](https://github.com/username/repository/blob/main/Pertemuan-5.ipynb) |
+| 6 | Persiapan Data | [Buka Notebook](https://github.com/username/repository/blob/main/Pertemuan-6.ipynb) |
+| 7 | Pengantar Machine Learning: Regresi Linear | [Buka Notebook](https://github.com/username/repository/blob/main/Pertemuan-7.ipynb) |
 
 ---
 
