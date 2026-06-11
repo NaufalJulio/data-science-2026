@@ -2,16 +2,16 @@
 
 ## Identitas Mahasiswa
 
-* **Nama:** <Nama Lengkap>
-* **NIM:** <NIM>
-* **Kelas:** <Kelas>
-* **Program Studi:** <Program Studi>
+* **Nama:** <Muhammad Naufal Julio>
+* **NIM:** <220401010028>
+* **Kelas:** <IF405>
+* **Program Studi:** <Teknik Informatika>
 
 ---
 
 ## Deskripsi Repository
 
-Halo! Saya **<Nama Lengkap>**, mahasiswa Program Studi **<Program Studi>**. Repository ini dibuat sebagai dokumentasi sekaligus portofolio pembelajaran saya selama mengikuti mata kuliah **Data Science**. Melalui repository ini, saya mempelajari konsep dasar Data Science mulai dari pengenalan Python, pengolahan data menggunakan Pandas dan NumPy, visualisasi data, hingga pengantar Machine Learning menggunakan regresi linear.
+Halo! Saya **<Muhammad Naufal Julio>**, mahasiswa Program Studi **<Teknik Informatika>**. Repository ini dibuat sebagai dokumentasi sekaligus portofolio pembelajaran saya selama mengikuti mata kuliah **Data Science**. Melalui repository ini, saya mempelajari konsep dasar Data Science mulai dari pengenalan Python, pengolahan data menggunakan Pandas dan NumPy, visualisasi data, hingga pengantar Machine Learning menggunakan regresi linear.
 
 Repository ini berisi kumpulan notebook praktikum dari Pertemuan 1 hingga Pertemuan 7. Setiap notebook memuat materi, implementasi kode, hasil analisis, serta latihan yang telah dikerjakan selama proses pembelajaran. Dengan adanya repository ini, saya berharap dapat melihat perkembangan kemampuan analisis data yang telah saya pelajari dan menjadikannya sebagai portofolio akademik.
 
