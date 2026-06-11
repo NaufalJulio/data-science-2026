@@ -2,16 +2,16 @@
 
 ## Identitas Mahasiswa
 
-* **Nama:** <Muhammad Naufal Julio>
-* **NIM:** <220401010028>
-* **Kelas:** <IF405>
-* **Program Studi:** <Teknik Informatika>
+* **Nama:** Muhammad Naufal Julio
+* **NIM:** 220401010028
+* **Kelas:** IF405
+* **Program Studi:** Teknik Informatika
 
 ---
 
 ## Deskripsi Repository
 
-Halo! Saya **<Muhammad Naufal Julio>**, mahasiswa Program Studi **<Teknik Informatika>**. Repository ini dibuat sebagai dokumentasi sekaligus portofolio pembelajaran saya selama mengikuti mata kuliah **Data Science**. Melalui repository ini, saya mempelajari konsep dasar Data Science mulai dari pengenalan Python, pengolahan data menggunakan Pandas dan NumPy, visualisasi data, hingga pengantar Machine Learning menggunakan regresi linear.
+Halo! Saya **Muhammad Naufal Julio**, mahasiswa Program Studi **Teknik Informatika**. Repository ini dibuat sebagai dokumentasi sekaligus portofolio pembelajaran saya selama mengikuti mata kuliah **Data Science**. Melalui repository ini, saya mempelajari konsep dasar Data Science mulai dari pengenalan Python, pengolahan data menggunakan Pandas dan NumPy, visualisasi data, hingga pengantar Machine Learning menggunakan regresi linear.
 
 Repository ini berisi kumpulan notebook praktikum dari Pertemuan 1 hingga Pertemuan 7. Setiap notebook memuat materi, implementasi kode, hasil analisis, serta latihan yang telah dikerjakan selama proses pembelajaran. Dengan adanya repository ini, saya berharap dapat melihat perkembangan kemampuan analisis data yang telah saya pelajari dan menjadikannya sebagai portofolio akademik.
 
@@ -21,7 +21,7 @@ Repository ini berisi kumpulan notebook praktikum dari Pertemuan 1 hingga Pertem
 
 | Pertemuan | Topik                                                   | Notebook                                 |
 | --------- | ------------------------------------------------------- | ---------------------------------------- |
-| 1         | Pengenalan Data Science                                 | [Pertemuan 1]([link-notebook-pertemuan-1](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan1_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
+| 1         | Pengenalan Data Science                                 | [Pertemuan 1]([https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan1_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb]()) |
 | 2         | Struktur Data Python, NumPy & Pandas                    | [Pertemuan 2]([link-notebook-pertemuan-2](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan2_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
 | 3         | Data Cleaning: Missing Values, Outlier & Ekstraksi Data | [Pertemuan 3]([link-notebook-pertemuan-3](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan3_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
 | 4         | Statistika Dasar & Analisis Data                        | [Pertemuan 4]([link-notebook-pertemuan-4](https://github.com/NaufalJulio/data-science-2026/blob/main/Pertemuan4_MUHAMMAD_NAUFAL_JULIO_220401010028.ipynb)) |
