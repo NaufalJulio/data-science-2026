@@ -1,0 +1,101 @@
+﻿id;model;year;qty;price;sales_type;total_sales
+1;Veloz;2024;1;320;Cash;320
+2;Agya;2020;1;180;Credit;180
+3;Veloz;2024;1;320;Cash;320
+4;Rush;2025;1;310;Cash;310
+5;Raize;2023;3;280;Cash;840
+6;Innova Zenix;2021;1;470;Cash;470
+7;Rush;2023;3;310;Credit;930
+8;Agya;2021;1;180;Credit;180
+9;Fortuner;2021;3;580;Cash;1740
+10;Rush;2022;3;310;Credit;930
+11;Rush;2022;1;310;Credit;310
+12;Raize;2022;2;280;Cash;560
+13;Raize;2022;3;280;Credit;840
+14;Veloz;2025;1;320;Cash;320
+15;Innova Reborn;2024;2;420;Credit;840
+16;Raize;2023;3;280;Cash;840
+17;Agya;2023;1;180;Cash;180
+18;Corolla Cross Hybrid;2021;2;620;Cash;1240
+19;Hilux;2020;1;450;Credit;450
+20;Raize;2023;1;280;Cash;280
+21;Innova Zenix;2023;1;470;Credit;470
+22;Innova Reborn;2022;1;420;Cash;420
+23;Corolla Cross Hybrid;2023;3;620;Credit;1860
+24;Camry Hybrid;2026;3;920;Credit;2760
+25;Innova Reborn;2026;2;420;Cash;840
+26;Veloz;2022;2;320;Cash;640
+27;Veloz;2024;2;320;Cash;640
+28;Raize;2024;3;280;Credit;840
+29;Corolla Cross Hybrid;2022;3;620;Cash;1860
+30;Avanza;2023;1;250;Cash;250
+31;Veloz;2021;2;320;Cash;640
+32;Camry Hybrid;2025;1;920;Cash;920
+33;Innova Reborn;2022;3;420;Credit;1260
+34;Raize;2022;3;280;Credit;840
+35;Veloz;2020;2;320;Credit;640
+36;Veloz;2025;2;320;Credit;640
+37;Raize;2024;1;280;Cash;280
+38;Veloz;2023;1;320;Credit;320
+39;Veloz;2022;1;320;Credit;320
+40;Raize;2026;1;280;Cash;280
+41;Innova Zenix;2022;1;470;Credit;470
+42;Veloz;2023;2;320;Cash;640
+43;Innova Reborn;2023;3;420;Credit;1260
+44;Avanza;2026;3;250;Cash;750
+45;Corolla Cross Hybrid;2024;3;620;Cash;1860
+46;Avanza;2021;3;250;Cash;750
+47;Camry Hybrid;2025;1;920;Cash;920
+48;Innova Reborn;2021;2;420;Cash;840
+49;Rush;2020;1;310;Cash;310
+50;Hilux;2021;3;450;Cash;1350
+51;Innova Reborn;2023;1;420;Cash;420
+52;Innova Reborn;2023;2;420;Credit;840
+53;Rush;2025;1;310;Credit;310
+54;Agya;2025;3;180;Credit;540
+55;Avanza;2020;1;250;Credit;250
+56;Agya;2024;1;180;Credit;180
+57;Agya;2020;3;180;Cash;540
+58;Raize;2022;2;280;Credit;560
+59;Innova Reborn;2021;3;420;Credit;1260
+60;Raize;2024;2;280;Cash;560
+61;Innova Zenix;2022;2;470;Cash;940
+62;Rush;2026;2;310;Credit;620
+63;Corolla Cross Hybrid;2022;3;620;Cash;1860
+64;Veloz;2024;1;320;Credit;320
+65;Veloz;2022;2;320;Cash;640
+66;Hilux;2020;1;450;Cash;450
+67;Fortuner;2022;3;580;Cash;1740
+68;Veloz;2025;2;320;Credit;640
+69;Rush;2022;2;310;Cash;620
+70;Agya;2022;2;180;Cash;360
+71;Innova Zenix;2025;3;470;Cash;1410
+72;Innova Reborn;2026;3;420;Credit;1260
+73;Camry Hybrid;2023;3;920;Cash;2760
+74;Avanza;2020;2;250;Cash;500
+75;Agya;2024;3;180;Cash;540
+76;Avanza;2024;3;250;Cash;750
+77;Avanza;2024;3;250;Credit;750
+78;Avanza;2023;1;250;Credit;250
+79;Agya;2020;2;180;Credit;360
+80;Corolla Cross Hybrid;2021;2;620;Credit;1240
+81;Innova Zenix;2021;2;470;Cash;940
+82;Avanza;2026;2;250;Cash;500
+83;Innova Zenix;2023;3;470;Credit;1410
+84;Avanza;2026;3;250;Credit;750
+85;Corolla Cross Hybrid;2023;1;620;Cash;620
+86;Veloz;2020;1;320;Cash;320
+87;Corolla Cross Hybrid;2023;2;620;Cash;1240
+88;Hilux;2024;1;450;Credit;450
+89;Rush;2024;3;310;Credit;930
+90;Innova Zenix;2024;2;470;Credit;940
+91;Agya;2023;1;180;Cash;180
+92;Rush;2022;3;310;Credit;930
+93;Veloz;2023;3;320;Credit;960
+94;Avanza;2022;1;250;Cash;250
+95;Corolla Cross Hybrid;2020;1;620;Credit;620
+96;Fortuner;2022;1;580;Cash;580
+97;Corolla Cross Hybrid;2024;2;620;Credit;1240
+98;Hilux;2024;2;450;Cash;900
+99;Hilux;2020;2;450;Cash;900
+100;Avanza;2021;3;250;Credit;750
