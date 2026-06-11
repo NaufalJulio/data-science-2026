@@ -67,22 +67,16 @@ Repository ini berisi kumpulan notebook praktikum dari Pertemuan 1 hingga Pertem
 1. Clone repository ini:
 
    ```bash
-   git clone https://github.com/<username>/<nama-repository>.git
+   git clone https://github.com/NaufalJulio/data-science-2026.git
    ```
 
-2. Masuk ke folder repository:
-
-   ```bash
-   cd <nama-repository>
-   ```
-
-3. Install library yang dibutuhkan:
+2. Install library yang dibutuhkan:
 
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn missingno jupyter
    ```
 
-4. Jalankan Jupyter Notebook:
+3. Jalankan Jupyter Notebook:
 
    ```bash
    jupyter notebook
